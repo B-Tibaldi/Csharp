@@ -1,0 +1,14 @@
+E:\codigos\Csharp\Dados RPG\bin\Debug\net9.0\Dados RPG.exe
+E:\codigos\Csharp\Dados RPG\bin\Debug\net9.0\Dados RPG.deps.json
+E:\codigos\Csharp\Dados RPG\bin\Debug\net9.0\Dados RPG.runtimeconfig.json
+E:\codigos\Csharp\Dados RPG\bin\Debug\net9.0\Dados RPG.dll
+E:\codigos\Csharp\Dados RPG\bin\Debug\net9.0\Dados RPG.pdb
+E:\codigos\Csharp\Dados RPG\obj\Debug\net9.0\Dados RPG.GeneratedMSBuildEditorConfig.editorconfig
+E:\codigos\Csharp\Dados RPG\obj\Debug\net9.0\Dados RPG.AssemblyInfoInputs.cache
+E:\codigos\Csharp\Dados RPG\obj\Debug\net9.0\Dados RPG.AssemblyInfo.cs
+E:\codigos\Csharp\Dados RPG\obj\Debug\net9.0\Dados RPG.csproj.CoreCompileInputs.cache
+E:\codigos\Csharp\Dados RPG\obj\Debug\net9.0\Dados RPG.dll
+E:\codigos\Csharp\Dados RPG\obj\Debug\net9.0\refint\Dados RPG.dll
+E:\codigos\Csharp\Dados RPG\obj\Debug\net9.0\Dados RPG.pdb
+E:\codigos\Csharp\Dados RPG\obj\Debug\net9.0\Dados RPG.genruntimeconfig.cache
+E:\codigos\Csharp\Dados RPG\obj\Debug\net9.0\ref\Dados RPG.dll

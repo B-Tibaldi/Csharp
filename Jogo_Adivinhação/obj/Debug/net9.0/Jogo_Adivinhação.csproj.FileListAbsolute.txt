@@ -1,0 +1,14 @@
+E:\codigos\Csharp\Jogo_Adivinhação\bin\Debug\net9.0\Jogo_Adivinhação.exe
+E:\codigos\Csharp\Jogo_Adivinhação\bin\Debug\net9.0\Jogo_Adivinhação.deps.json
+E:\codigos\Csharp\Jogo_Adivinhação\bin\Debug\net9.0\Jogo_Adivinhação.runtimeconfig.json
+E:\codigos\Csharp\Jogo_Adivinhação\bin\Debug\net9.0\Jogo_Adivinhação.dll
+E:\codigos\Csharp\Jogo_Adivinhação\bin\Debug\net9.0\Jogo_Adivinhação.pdb
+E:\codigos\Csharp\Jogo_Adivinhação\obj\Debug\net9.0\Jogo_Adivinhação.GeneratedMSBuildEditorConfig.editorconfig
+E:\codigos\Csharp\Jogo_Adivinhação\obj\Debug\net9.0\Jogo_Adivinhação.AssemblyInfoInputs.cache
+E:\codigos\Csharp\Jogo_Adivinhação\obj\Debug\net9.0\Jogo_Adivinhação.AssemblyInfo.cs
+E:\codigos\Csharp\Jogo_Adivinhação\obj\Debug\net9.0\Jogo_Adivinhação.csproj.CoreCompileInputs.cache
+E:\codigos\Csharp\Jogo_Adivinhação\obj\Debug\net9.0\Jogo_Adivinhação.dll
+E:\codigos\Csharp\Jogo_Adivinhação\obj\Debug\net9.0\refint\Jogo_Adivinhação.dll
+E:\codigos\Csharp\Jogo_Adivinhação\obj\Debug\net9.0\Jogo_Adivinhação.pdb
+E:\codigos\Csharp\Jogo_Adivinhação\obj\Debug\net9.0\Jogo_Adivinhação.genruntimeconfig.cache
+E:\codigos\Csharp\Jogo_Adivinhação\obj\Debug\net9.0\ref\Jogo_Adivinhação.dll

@@ -1,0 +1,14 @@
+E:\codigos\Csharp\Lista\bin\Debug\net9.0\Lista.exe
+E:\codigos\Csharp\Lista\bin\Debug\net9.0\Lista.deps.json
+E:\codigos\Csharp\Lista\bin\Debug\net9.0\Lista.runtimeconfig.json
+E:\codigos\Csharp\Lista\bin\Debug\net9.0\Lista.dll
+E:\codigos\Csharp\Lista\bin\Debug\net9.0\Lista.pdb
+E:\codigos\Csharp\Lista\obj\Debug\net9.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+E:\codigos\Csharp\Lista\obj\Debug\net9.0\Lista.AssemblyInfoInputs.cache
+E:\codigos\Csharp\Lista\obj\Debug\net9.0\Lista.AssemblyInfo.cs
+E:\codigos\Csharp\Lista\obj\Debug\net9.0\Lista.csproj.CoreCompileInputs.cache
+E:\codigos\Csharp\Lista\obj\Debug\net9.0\Lista.dll
+E:\codigos\Csharp\Lista\obj\Debug\net9.0\refint\Lista.dll
+E:\codigos\Csharp\Lista\obj\Debug\net9.0\Lista.pdb
+E:\codigos\Csharp\Lista\obj\Debug\net9.0\Lista.genruntimeconfig.cache
+E:\codigos\Csharp\Lista\obj\Debug\net9.0\ref\Lista.dll
